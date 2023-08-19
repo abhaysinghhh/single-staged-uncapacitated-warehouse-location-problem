@@ -1,0 +1,5 @@
+Time taken:0.011
+iteration= 0
+Lagrangian bound= 126.022
+dual solution= 126.022
+theta= 0.75
